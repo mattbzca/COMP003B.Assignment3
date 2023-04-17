@@ -6,7 +6,7 @@ namespace COMP003B.Assignment3.Models
 {
     public class MarketPrice : Controller
     {
-        public class PantsPair
+        public class marketPrice
         {
             [Required]
             [Range(1, 99)]
